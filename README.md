@@ -39,7 +39,10 @@ public class Test {
 如果不想记忆这些语法，就直接用工具生成 readme.md文件<br>
 1、在线工具 http://mahua.jser.me/ <br>
 2、Mou 是 Mac下杰出的 Markdown 编辑器 http://25.io/mou/  <br>
-3、
+
+
+
+注： 参阅 http://note.youdao.com/share/?id=117acd41729167a07b31d655c62e5ad2&type=note 
 
 
 
